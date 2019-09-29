@@ -1,5 +1,5 @@
-function addNumber(a, b){
-	return a+b;
+function substractNumber(a, b){
+	return a-b;
 }
 
 
